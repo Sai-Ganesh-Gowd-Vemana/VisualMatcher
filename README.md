@@ -127,14 +127,7 @@ lucide-react icons
 
 Tailwind / JSX UI
 
-☑ Submission Guidelines (Matches University Requirements)
 
-✔ No node_modules
-✔ Public GitHub repo
-✔ Only essential files
-✔ No API keys
-✔ Runs fully offline
-✔ Clear folder structure
 
 🧑‍💻 Maintainer
 
